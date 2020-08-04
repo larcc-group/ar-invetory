@@ -1,0 +1,10 @@
+app/Packages
+app/obj
+app/Logs
+app/Library
+app/.vs
+app/Temp
+
+
+api/node_modules
+api/package-lock.json
